@@ -12,7 +12,7 @@ labels:
 summary: "Different Classification Models"
 ---
 
-<img class="img-fluid" src="../img/Classification_models/image.png">
+<img class="img-fluid" src="../img/Classification_models/classification.jpg">
 
 Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
