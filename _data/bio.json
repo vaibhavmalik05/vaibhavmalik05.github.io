@@ -1,56 +1,65 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Vaibhav Malik",
+    "label": "Data Scientist",
+    "picture": "https://github.com/vaibhavmalik05.png",
+    "email": "malik.vaibhav@gmail.com",
+    "phone": "+91-8077775719",
+    "website": "https://vaibhavmalik05.github.io",
+    "summary": "I am an experienced data scientist at Halliburton, known for my expertise in model building, deployment, and delivering impactful data-driven solutions. I excel in various aspects of data science, including data loading, preprocessing, feature engineering, and modeling. I possess hands-on experience with AWS Sagemaker for efficient model deployment and Microsoft Power BI for insightful data modeling. \nMy postgraduate degree from IIT Kanpur focused on 'Modeling of Direct Chill casting', utilizing tools like ANSYS and ThermoCalc to ensure accurate modeling. This research enabled seamless integration with homogenization and rolling processes, showcasing my ability to apply advanced techniques in practical applications \nIn addition to my technical proficiency, my strong communication skills allow me to effectively translate complex concepts into tailored proposals that meet customer needs. I am dedicated to crafting data science solutions that address real-world business challenges and drive organizational success. Continuously staying updated with the latest advancements in the field, I eagerly embrace new tools and techniques to enhance my analytical toolkit.",
+    "location": { "address": "#38/2, Serenity Layout, Kaikondrahalli, Bangalore", "postalCode": "560035", "city": "Bangalore", "countryCode": "India", "region": "Indian Subcontinent" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "github", "username": "vaibhavmalik05", "url": "https://github.com/vaibhavmalik05" },
+      { "network": "linkedin", "username": "vaibhav-malik-64223212a", "url": "https://www.linkedin.com/in/vaibhav-malik-64223212a/" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Data Science" },
+    { "name": "Artificial Intelligence" },
+    { "name": "Natural Language Processing" },
+    { "name": "Time Series Forecasting" },
+    { "name": "PowerBI" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Python", "C++", "Java", "Flask", "Java", "SpringBoot" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "Orange", "PowerBI", "VS Code", "Jenkins", "ANSYS", "ThermoCalc" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "Indian Institute of Technology, Kanpur",
+      "area": "Materials Science and Engineering",
+      "studyType": "M.Tech",
+      "startDate": "2019-06",
+      "endDate": "2021-07",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "National Institute of Foundry and Forge Technology, Ranchi",
+      "area": "Metallurgy and Materials Engineering",
+      "studyType": "B.Tech",
+      "startDate": "2015-06",
+      "endDate": "2019-05",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Halliburton",
+      "position": "Data Scientist",
+      "website": "https://www.halliburton.com/",
+      "startDate": "2021-08-23",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Data Scientist in Sales & Services team",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
@@ -64,50 +73,30 @@
       "endDate": "2016-03-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Built regression, classification, and neural network models, including CNN and RNN, for diverse applications.",
+        "Led end-to-end machine learning projects, overseeing data collection, preprocessing, feature engineering, and model deployment.",
+        "Led end-to-end machine learning projects, overseeing data collection, preprocessing, feature engineering, and model deployment.",
+        "Provided ML/AL-based solution approaches in client proposals, translating complex concepts into actionable solutions.",
+        "Employed Microsoft Power BI for data modeling and statistical business diagnostics.",
+        "Proficient in Python libraries like Pandas, NumPy, Sci-kit Learn, TensorFlow, Statsmodels, and Spacy.",
+        "Developed a user-friendly Streamlit-based thin client UI for machine learning model deployment.",
+        "Troubleshot complex software issues and performed UI automation using Protractor.",
+        "Diverse skill set driving impactful data science and machine learning projects."
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Academic Excellence Award",
+      "date": "2019-2020",
+      "awarder": "Indian Institute of Technology",
+      "summary": "Awarded to top 10% performer of the department"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Academic Excellence Award",
+      "date": "2020-2021",
+      "awarder": "Indian Institute of Technology",
+      "summary": "Awarded to top 10% performer of the department"
     }
   ],
   "references": [
