@@ -64,25 +64,6 @@
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
       ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Built regression, classification, and neural network models, including CNN and RNN, for diverse applications.",
-        "Led end-to-end machine learning projects, overseeing data collection, preprocessing, feature engineering, and model deployment.",
-        "Led end-to-end machine learning projects, overseeing data collection, preprocessing, feature engineering, and model deployment.",
-        "Provided ML/AL-based solution approaches in client proposals, translating complex concepts into actionable solutions.",
-        "Employed Microsoft Power BI for data modeling and statistical business diagnostics.",
-        "Proficient in Python libraries like Pandas, NumPy, Sci-kit Learn, TensorFlow, Statsmodels, and Spacy.",
-        "Developed a user-friendly Streamlit-based thin client UI for machine learning model deployment.",
-        "Troubleshot complex software issues and performed UI automation using Protractor.",
-        "Diverse skill set driving impactful data science and machine learning projects."
-      ]
     }
   ],
   "awards": [
