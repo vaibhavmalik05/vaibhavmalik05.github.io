@@ -12,6 +12,9 @@ summary: "Code for image tracking in video using predefined lables"
 
 <!-- <img src="../img/NLP/chatbot/bot.jpg" class="img-fluid"> -->
 <center> <img src="../img/computer_vision/image_tracking_video/image.png" height = 400px width = auto> </center>
+<br>
+<br>
+<br>
 
 {% include projects/image_tracking_video.html %}
 

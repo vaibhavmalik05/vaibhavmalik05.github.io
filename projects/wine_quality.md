@@ -12,6 +12,9 @@ summary: "predicting the quality of the Portuguese red wine using its chemical p
 ---
 
 <img src="../img/Classification_models/wine/wine_inside.jpg" class="img-fluid">
+<br>
+<br>
+<br>
 
 {% include projects/wine.html %}
 

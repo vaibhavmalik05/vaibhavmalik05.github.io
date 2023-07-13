@@ -14,6 +14,9 @@ summary: "A simple chat based based on tfidf"
 
 <!-- <img src="../img/NLP/chatbot/bot.jpg" class="img-fluid"> -->
 <center> <img src="../img/NLP/chatbot/bot.jpg" height = 600px width = auto> </center>
+<br>
+<br>
+<br>
 
 {% include projects/chatbot.html %}
 

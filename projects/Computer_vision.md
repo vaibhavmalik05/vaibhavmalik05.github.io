@@ -18,6 +18,9 @@ summary: "Computer vision problem kaggle datasets"
 
 
 <div style="background-color: var(--tf-page-bg-color)" class="bg-gradient py-3">
+<br>
+<br>
+<br>
 
 {% include projects/cv_project.html limit=4 %}
 

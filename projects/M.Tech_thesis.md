@@ -10,13 +10,10 @@ labels:
   - ANSYS
   - Modelling
   - Horizontal and vertical integration
-summary: "Title: Modelling of Direct Chill (DC) casting to enable horizontal integration with homogenization and rolling processes"
+summary: "Modelling of Direct Chill (DC) casting to enable horizontal integration with homogenization and rolling processes"
 ---
 
 
-<br>
-*** Here we are providing only brief overview of the problem, results, conculsion and future work. ***
-<br>
 <br>
 
 <center> <h2> Introduction </h2> </center>
