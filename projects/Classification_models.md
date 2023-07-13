@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Classification_models/image2.jpg
+image: img/Classification_models/img_class.png
 title: "Classification Models"
 date: 2021- Present
 published: true
