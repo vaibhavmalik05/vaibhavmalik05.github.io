@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/NLP/nlp.jpg
+image: img/NLP/nlp2.jpg
 title: "Natural Language Processing"
 date: 2021- Present
 published: true

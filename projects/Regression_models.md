@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Regression_models/Regression.png
+image: img/Regression_models/Regression2.jpg
 title: "Regression Models"
 date: 2021- Present
 published: true

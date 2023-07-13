@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/computer_vision/cv.jpg
+image: img/computer_vision/cv2.jpg
 title: "Computer vision Problems"
 date: 2021- Present
 published: true

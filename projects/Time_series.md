@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/TSA/tsa.jpg
+image: img/TSA/tsa2.jpg
 title: "Time Series Problems"
 date: 2021- Present
 published: true

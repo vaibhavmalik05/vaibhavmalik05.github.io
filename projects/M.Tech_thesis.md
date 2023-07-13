@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/master_thesis/thesis.png
+image: img/master_thesis/thesis2.jpg
 title: "M.Tech Thesis"
 date: 2020 - 2021
 published: true

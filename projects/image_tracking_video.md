@@ -14,3 +14,6 @@ summary: "Code for image tracking in video using predefined lables"
 <center> <img src="../img/computer_vision/image_tracking_video/image.png" height = 400px width = auto> </center>
 
 {% include projects/image_tracking_video.html %}
+
+<br>
+Source: <a href="https://github.com/vaibhavmalik05/Image_tracking_Video">vaibhavmalik05/Image_tracking_Video</a>

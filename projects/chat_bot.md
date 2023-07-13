@@ -16,3 +16,6 @@ summary: "A simple chat based based on tfidf"
 <center> <img src="../img/NLP/chatbot/bot.jpg" height = 600px width = auto> </center>
 
 {% include projects/chatbot.html %}
+
+<br>
+Source: <a href="https://github.com/vaibhavmalik05/Basic-Chatbot">vaibhavmalik05/Basic-Chatbot</a>

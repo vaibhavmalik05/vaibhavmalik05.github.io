@@ -58,4 +58,5 @@ with proper fault identifications, we then create ML model. Here we have chosen 
 
 <center> <img src="../img/TSA/IMX_bearing/bearing_cm.png" Height=200px width=Auto class="img-fluid"> </center>
 
-Source: <a href="https://github.com/hprutvisagar/IMX_bearing_dataset.git">hprutvisagar/IMX_bearing_dataset</a>
+<br>
+Source: <a href="https://github.com/vaibhavmalik05/IMX_Bearing_dataset">vaibhavmalik05/IMX_bearing_dataset</a>
